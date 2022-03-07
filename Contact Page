@@ -1,4 +1,7 @@
 <!doctype html>
+<html lang="en">
+<head>
+<style>
 body {
 background-color:#95a5a6;
     padding: 0px;
@@ -67,7 +70,8 @@ nav ul li a: after,
 nav ul li a:before,
  transition; all .5s;
 }
-
+</head>
+</style>
 
 
 
