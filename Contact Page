@@ -1,0 +1,109 @@
+<!doctype html>
+body {
+background-color:#95a5a6;
+    padding: 0px;
+    margin: 0px;
+    height: 800px;
+    width: 100%;
+    font-family: "Helvetica", comic sans-serif;
+    font-weight: 100;
+}
+
+header[role="banner"] {
+   
+   width: 100%;
+   text-align: center;
+   
+   height: 117px;
+   padding: 50px 0;
+}
+
+section {
+    float: left;
+    font-weight: 500;
+    padding: 40px;
+    width: 50%;
+    font-size: 18px;
+    box-sizing: border-box;
+    color: #e0f0ff;
+}
+
+nav {
+    
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+    
+a:visted {
+    text-decoration: none;
+}
+    
+    
+nav ul {
+    list-style: ;
+}
+
+nav ul li {
+    display: inline-block;
+    color:#56ff3a;
+    margin: 0px 80px;
+    height: 20px;
+    width: 50px;
+    padding-top: -15px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+nav ul li:hover {
+   
+    color:blue;
+}
+
+nav ul a, 
+nav ul li a: after,
+nav ul li a:before,
+ transition; all .5s;
+}
+
+
+
+
+
+<h1 style="border:2px solid DodgerBlue;" style ="color:Tomato;">Contacts</h1>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Pogbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarColor01">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link active" href="#">Home
+        
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+       
+  
+    
+    </div>
+  </div>
+</nav>
+  
+  <p>
+    CONTACT ME FOR ANY QUESTIONS!!
+    <li>
+      Email -   essey.tesfalem@students.aimsk12.org
+      
+      
+    </li>
+  </p>
