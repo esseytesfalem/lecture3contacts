@@ -88,13 +88,13 @@ nav ul li a:before,
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link active" href="#">Home
+          <a class="nav-link active" href="https://htmlpreview.github.io/?https://github.com/esseytesfalem/Boostwatch24.5/blob/main/Home-page">Home
         
           </a>
         </li>
         
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="https://htmlpreview.github.io/?https://github.com/esseytesfalem/Assighment-lecture-3/blob/main/About%20us%20page">About</a>
         </li>
        
   
